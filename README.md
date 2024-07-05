@@ -61,9 +61,10 @@ DALL-E 3：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como powerpoint, libreoffice , indesign para diagramação.
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como powerpoint, libreoffice ou indesign para diagramação.
+Sinta-se à vontade para iniciar seu próprio ebook sobre outros temas incriveis também!
 
-## 👩🏻‍💻 Expert
+## 👩🏻‍💻 Autora
 
 <p>
     <img 
