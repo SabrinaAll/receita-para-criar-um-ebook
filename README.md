@@ -16,7 +16,7 @@ Como criar um Ebook usando IA
 Projeto com o objetivo de gerar um Ebook Digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
-<a href="Ebook Redes Neuraus Artificiais.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="Ebook Redes Neuraus Artificiais.pdf" title="View PDF now"> 📕Clique aqui para ler o Ebook</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
