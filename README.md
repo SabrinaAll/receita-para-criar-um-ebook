@@ -11,7 +11,7 @@ Como criar um Ebook usando IA
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é um repositório desenvolvido durante o curso no qual fui aluna do Bootcamp Santander 2024 na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é um repositório desenvolvido durante o curso no qual fui aluna do Bootcamp Santander 2024 na plataforma da [DIO](https://dio.me) com o auxilio do professor [Felipe Aguiar](https://github.com/felipeAguiarCode), inspirada em seu projeto [prompts-recipe-to-create-a-ebook](https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/tree/main).
 
 Projeto com o objetivo de gerar um Ebook Digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
