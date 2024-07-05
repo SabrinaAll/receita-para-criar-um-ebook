@@ -3,7 +3,7 @@ Como criar um Ebook usando IA
 
 <p align="center">
 <img 
-    src="file:///home/gabriela/Imagens/dkfnoieknf.png"
+    src="dkfnoieknf.png"
     width="400"  
 />
 </p>
