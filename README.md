@@ -11,9 +11,9 @@ Como criar um Ebook usando IA
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna do Bootcamp Santander 2024 na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é um repositório desenvolvido durante o curso no qual fui aluna do Bootcamp Santander 2024 na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de gerar um Ebook Digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
 <a href="Ebook Redes Neuraus Artificiais.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
@@ -56,12 +56,12 @@ DALL-E 3：
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Imagens utilizadas
+- Ebook gerado durante as aulas
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como powerpoint, libreoffice , indesign para diagramação.
 
 ## 👩🏻‍💻 Expert
 
